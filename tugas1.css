@@ -175,7 +175,7 @@ section {
     position: absolute;
     bottom: 425px;
     left: 50px;
-    display: ;
+
 }
 
 #profil {
@@ -184,21 +184,20 @@ section {
 
 #profil p {
     font-size: 20px;
-    width: 430px;
+    width: 420px;
     float: right;
-    padding: 25px;
+    /* padding: 25px; */
     text-align: justify;
-    padding-top: 1px;
 }
 
-#profil img {
+/* #profil img {
     width: 430px;
     height: 600px;
     float: left;
     margin-top: 10px;
     border-radius: 10px;
     box-shadow: 0 3px 7px #ddd;
-}
+} */
 
 #Profil h3 {
     font-size: 30px;
@@ -408,7 +407,9 @@ section {
     }
 
     #home {
-        font-size: 30px;
+        font-size: 28px;
+        margin-top: -50px;
+        margin-left: -50px;
         padding-left: 50px;
     }
 
@@ -426,5 +427,68 @@ section {
         box-shadow: 0 3px 7px #ddd; */
     }
 
+    #Profil p {
+        width: 100%;
+    }
 
+    #contact .container .col-3 {
+        width: 100%;
+        box-sizing: inherit;
+        float: inherit;
+        /* text-align: center; */
+        padding: 0 0;
+    }
+
+    /*  #contact h3 {
+        font-size: 30px;
+        padding-bottom: 30px;
+        text-align: center;
+        margin: 5px;
+        position: relative;
+    }
+
+    #contact h3::before {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 30px;
+        bottom: 0;
+        width: 100px;
+        height: 4px;
+        background-color: #1a89bc;
+        left: calc(50% - 50px);
+    }
+
+    #contact h3::after {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 30px;
+        bottom: 0;
+        width: 40px;
+        height: 4px;
+        background-color: black;
+        left: calc(50% - 20px);
+    }
+
+    .col-3 {
+        width: 33.33%;
+        box-sizing: border-box;
+        float: left;
+        text-align: center;
+        padding: 50px 10px;
+    }
+
+    .col-3 h4 {
+        padding-bottom: 10px;
+        border-bottom: 1px solid grey;
+        margin-bottom: 15px;
+    }
+
+    .col-3 p {
+        padding-bottom: 10px;
+        border-bottom: 1px solid grey;
+        margin-bottom: 15px;
+        ;
+    } */
 }
