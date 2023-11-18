@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Vmart Android",
+    "desc": "APlikasi penjualan sayur dan buah hidroponik berbasis mobile",
+    "image": "mobilevmart",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/sahrul1610/Proyek3-VmartMobile-/"
+    }
+  },
+  {
+    "name": "Vmart Website",
+    "desc": "Aplikasi Penjualan dan Edukasi Produk Hidroponik Terintegrasi Payment Gateway Berbasis Web",
+    "image": "landing",
+    "category": "basicweb",
+    "links": {
+      "view": "https://vmart.abdimas.com/",
+      "code": "https://github.com/sahrul1610/vmart_hidrponik_web/"
+    }
+  },
+  {
+    "name": "Aplikasi Perpustakaan",
+    "desc": "sistem pendataan, pengelolaan, pendataan dan pengembalian buku pada perpustakaan yayasan darul palah randika",
+    "image": "perpus",
+    "category": "basicweb",
+    "links": {
+      "view": "https://vmart.abdimas.com/",
+      "code": "https://github.com/sahrul1610/proyek_2/tree/master/perpustakaan-app7"
+    }
+  }
+]
